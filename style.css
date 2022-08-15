@@ -112,3 +112,16 @@ a{
         display: none;
     }
 }
+
+@media (max-width:600px) {
+    main{
+        margin: auto;
+        border-radius: 0px 0px 10px 10px;
+        width: 80%;
+
+    }
+
+    h1{
+        margin: auto;
+    }
+}
